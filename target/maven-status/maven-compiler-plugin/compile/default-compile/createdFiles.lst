@@ -1,0 +1,5 @@
+bks\pluginstore\teamchat\utils\Var.class
+bks\pluginstore\teamchat\commands\TeamChatCommand.class
+bks\pluginstore\teamchat\events\TeamChatEventListener.class
+bks\pluginstore\teamchat\utils\FileManager.class
+bks\pluginstore\teamchat\TeamChat.class

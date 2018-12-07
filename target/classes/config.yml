@@ -1,0 +1,53 @@
+# Teamchat v. 1.1.5 by PluginStoreBKS (Jan B.)
+#
+#
+#
+# Welcome to the Teamchat Config!
+#
+# You can use our Support on Discord: https://discord.gg/auy9qzR
+#
+# Permission to use the /teamchat reload command: teamchat.reload
+#
+#
+#
+# TeamChatTrigger is the Character or string before your Teamchat-Message
+TeamChatTrigger: "@tc"
+#
+# which permission should be use to access the Teamchat?
+TeamchatPermission: teamchat.use
+#
+# Should Teammember be able to use Colorcodes? e.g. @tc &6Hello Team would display an Orange message
+UseOwnChatColour: "false"
+#
+# Prefix of Teamchat. default: §bTeamchat
+Prefix: §bTeamchat
+#
+# Placeholder between Prefix and Playername
+Placeholder: §7»
+#
+# Which Chatcolor should be used for Teamchat-Messages? (useless if 'UseOwnChatColour) is set to 'true'
+Chatcolor: §e
+#
+# No-Permission Message for /teamchat Command
+NoPermissionsMessage: §cSorry, but you are not allowed to do this§7!
+#
+# Infomessage when a Player uses Teamchat while it's toggled
+TeamChatDisabled:  §cyou cannot send Messages to Teamchat because you currently disabled it§7! §e/teamchat toggle
+#
+# /teamchat info InfoMessage
+InfoMessage: §cshow this page
+#
+# /teamchat toggle Infomessage
+ToggleMessage: §ctoggle Teamchat
+#
+# /teamchat reload Infomessage
+ReloadInfo: §creloads the Config file
+#
+# Infomessage when Teamchat is toggled on
+EnabledTeamChat: §aYou enabled the Teamchat successfully
+#
+# Infomessage when Teamchat is toggled off
+DisableTeamChat: §cYou disabled the Teamchat successfully
+#
+# Infomessage when Teamchat is successfully reloaded!
+ReloadSuccessful: The Configuration has been reloaded successfull§7!
